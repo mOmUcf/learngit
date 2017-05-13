@@ -4,4 +4,5 @@ Git is free software distributed under the GPL.
 Git has mutable index called stage.  
 Git tracks changes.  
 password: ******  
-Create a new branch(dev) is quick.
+Create a new branch(dev) is quick and simply.
+
